@@ -1,0 +1,32 @@
+aid: uk-carbon-intensity
+name: UK Carbon Intensity
+description: "The Official Carbon Intensity API for Great Britain developed by National Grid"
+url: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: UK Carbon Intensity
+    description: "The Official Carbon Intensity API for Great Britain developed by National Grid"
+    humanURL: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+    baseURL: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+common:
+  - type: Website
+    url: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
