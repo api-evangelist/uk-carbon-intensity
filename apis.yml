@@ -1,4 +1,16 @@
 aid: uk-carbon-intensity
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uk-carbon-intensity.png
 name: UK Carbon Intensity
 description: "The Official Carbon Intensity API for Great Britain developed by National Grid"
 url: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
