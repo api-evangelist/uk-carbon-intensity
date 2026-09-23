@@ -1,0 +1,21 @@
+# Front Door AI Index — uk-carbon-intensity — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: uk-carbon-intensity
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: carbon-intensity.github.io
+  final_host: carbon-intensity.github.io
+  ownership: own
+  owner: uk-carbon-intensity
+  shares_host_with: null
+  inherited_from: null
+  verdict: unmeasured
+  score: null
+  host_score: null
+  density: null
+  words: null
+  tiers: null
+  ambiguous: null
+  top_terms: null
