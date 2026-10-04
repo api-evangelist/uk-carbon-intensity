@@ -39,7 +39,6 @@ apis:
   - name: UK Carbon Intensity
     description: "The Official Carbon Intensity API for Great Britain developed by National Grid"
     humanURL: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
-    baseURL: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
     tags:
       - Environment
     properties:
